@@ -2,6 +2,7 @@
 
 **This project aims to analyze flight booking data obtained from the Ease My Trip platform and apply statistical techniques to extract meaningful insights. The primary objective is to build a predictive model using Linear Regression to forecast flight ticket prices based on various features such as airline, source, destination, departure time, and more.
 **
+
 **🔍 Objective**
 Perform an exploratory data analysis on the dataset to understand patterns and trends in flight pricing.
 Conduct various statistical hypothesis tests to derive meaningful insights from the data.
