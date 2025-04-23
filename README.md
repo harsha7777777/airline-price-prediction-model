@@ -1,4 +1,4 @@
-**✈️ Flight Price Prediction using Linear Regression**
+*✈️ Flight Price Prediction using Linear Regression:*
 
 **This project aims to analyze flight booking data obtained from the Ease My Trip platform and apply statistical techniques to extract meaningful insights. The primary objective is to build a predictive model using Linear Regression to forecast flight ticket prices based on various features such as airline, source, destination, departure time, and more.
 **
